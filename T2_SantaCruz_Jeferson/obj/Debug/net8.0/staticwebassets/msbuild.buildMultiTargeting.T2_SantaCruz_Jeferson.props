@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\T2_SantaCruz_Jeferson.props" />
+</Project>
